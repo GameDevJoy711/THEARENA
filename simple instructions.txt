@@ -1,0 +1,1 @@
+PUT THE .PCK FILE AND TheArena.exe file in one folder
